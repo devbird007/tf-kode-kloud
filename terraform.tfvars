@@ -1,0 +1,5 @@
+filename = "/home/manny/trois.txt"
+content = "We hate pets!"
+prefix = "Major"
+separator = "."
+length  = "2"
